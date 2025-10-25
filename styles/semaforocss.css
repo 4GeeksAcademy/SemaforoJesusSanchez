@@ -1,4 +1,4 @@
-.Semaforo {
+.semaforo {
   width: 100px;
   background-color: #333;
   border-radius: 20px;
@@ -22,21 +22,19 @@
 
 .rojo {
   background-color: red;
+  box-shadow: 0 0 25px 10px red;
 }
 
 .amarillo {
   background-color: yellow;
+  box-shadow: 0 0 25px 10px yellow;
 }
 
 .verde {
   background-color: limegreen;
+  box-shadow: 0 0 25px 10px limegreen;
 }
 
 .apagado {
   background-color: #555;
-}
-
-.brillo {
-  box-shadow: 0 0 25px 10px currentColor;
-  transform: scale(1.1);
 }

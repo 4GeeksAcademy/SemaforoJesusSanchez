@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap"
 
 // index.css'
-import '../styles/Index.css'
+
 
 
 
